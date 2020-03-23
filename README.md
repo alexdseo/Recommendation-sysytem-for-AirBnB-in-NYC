@@ -9,7 +9,7 @@ In this project, method to build a recommendation system using principal compone
 * The final report can be found at Recommendation_System_AirBnB_NYC.pdf and Project_report_latex.Rmd
 * All .csv data are from AirBnB research website
 * Codes for this project can be found at airbnb_wordcloud.ipynb and RawCode.Rmd
-* All visualization that was created with R and python is in image files
+* All visualization that was created with R and python is in image_files
 
  - - -
  Written by alexdseo
