@@ -1,0 +1,6 @@
+1 Guernsey
+2 Wales
+3 Egypt
+4 Gibraltar
+5 Bangladesh
+6 Cameroon
