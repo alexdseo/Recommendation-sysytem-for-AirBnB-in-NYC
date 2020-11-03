@@ -8,14 +8,13 @@ In this project, to build a recommendation system, principal components analysis
 
 To go further with this project Deep Factorization machine will be used in order to improve the recommendation system built based on unsupervised learning methods.
 
-* The final report can be found at:
+The final report can be found at:
 - [Final Report](https://github.com/alexdseo/Recommendation-sysytem-for-AirBnB-in-NYC/blob/master/Recommendation_System_AirBnB_NYC.pdf)
-
-* All .csv data in [Data](https://github.com/alexdseo/Recommendation-sysytem-for-AirBnB-in-NYC/tree/master/Data) are from AirBnB research website
-* Codes for this project can be found at:
+All .csv data in [Data](https://github.com/alexdseo/Recommendation-sysytem-for-AirBnB-in-NYC/tree/master/Data) are from AirBnB research website\
+Codes for this project can be found at:
 - [Main](https://github.com/alexdseo/Recommendation-sysytem-for-AirBnB-in-NYC/blob/master/RawCode.Rmd)
 - [World cloud](https://github.com/alexdseo/Recommendation-sysytem-for-AirBnB-in-NYC/blob/master/airbnb_wordcloud.ipynb)
-* All visualization that was created with R and python are in [Image files](https://github.com/alexdseo/Recommendation-sysytem-for-AirBnB-in-NYC/tree/master/Image_files)
+All visualization that was created with R and python are in [Image files](https://github.com/alexdseo/Recommendation-sysytem-for-AirBnB-in-NYC/tree/master/Image_files)\
 
  - - -
  Written by alexdseo
