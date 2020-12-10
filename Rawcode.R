@@ -1,19 +1,19 @@
 ---
-title: "Statistics 424 Homework 7"
+  title: "Statistics 424 Homework 7"
 author: "Alex Seo"
 date: "December 1, 2019"
 output: pdf_document
 header-includes:
-- \usepackage{fancyhdr}
+  - \usepackage{fancyhdr}
 - \pagestyle{fancy}
 - \fancyhf{}
 - \rhead{Seo}
 - \lhead{STAT 456 Final project}
 - \cfoot{\thepage}
 ---
-
-<!-- R chunk setup -->
-```{r setup, include=FALSE}
+  
+  <!-- R chunk setup -->
+  ```{r setup, include=FALSE}
 # global chunk options
 knitr::opts_chunk$set(echo = TRUE, comment = NA)
 
@@ -27,7 +27,7 @@ library(MASS)
 ```
 
 <!-- Page Break -->
-\newpage
+  \newpage
 
 ```{r}
 airbnb<-read.csv("AB_NYC_2019.csv")
@@ -132,10 +132,10 @@ panel.boxplot <- function(x, ...) {
   b <- boxplot.stats(x, do.conf = FALSE)
   arrows(b$stats[1], 0.5, b$stats[5], 0.5, angle=90, length=0.1, code=3)
   rect(b$stats[2], 0.3, b$stats[4], 0.7, col="yellow", ...) 
-	segments(b$stats[3], 0.3, y1=0.7, lwd=3, lend=1)
-	if(n <- length(b$out))
-		points(b$out, rep(0.5, n), pch=1)
-	box()
+  segments(b$stats[3], 0.3, y1=0.7, lwd=3, lend=1)
+  if(n <- length(b$out))
+    points(b$out, rep(0.5, n), pch=1)
+  box()
 } # https://rdrr.io/github/mikemeredith/MMmisc/src/R/panel_functions.R
 
 pairs(airbnb_sample3[,c(10,13,14)],
@@ -287,7 +287,7 @@ airbnb_sample3[which(airbnb_sample3$id==25309799),]
 ```
 
 <!-- Page Break -->
-\newpage
+  \newpage
 
 ## Code Appendix
 ```{r ref.label=knitr::all_labels(), echo = T, eval = F}
