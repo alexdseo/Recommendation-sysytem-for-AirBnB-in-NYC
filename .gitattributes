@@ -13,5 +13,6 @@
 *.R  	  text
 *.Rproj text
 
-#Don't detect html as a language, but detect css
+#Don't detect ipynb as a language, but detect Rmd
 *.Rmd linguist-detectable=true
+*.ipynb linguist-detectable=true
