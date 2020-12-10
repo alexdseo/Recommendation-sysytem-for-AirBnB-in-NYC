@@ -13,6 +13,5 @@
 *.R  	  text
 *.Rproj text
 
-#Don't detect ipynb as a language, but detect Rmd
+#Detect Rmd as a language
 *.Rmd linguist-detectable=true
-*.ipynb linguist-detectable=true
