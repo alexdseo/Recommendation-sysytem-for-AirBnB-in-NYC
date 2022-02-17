@@ -15,7 +15,7 @@ All .csv data in [Data](https://github.com/alexdseo/Recommendation-sysytem-for-A
 
 Codes for this project can be found at:
 - [Main](https://github.com/alexdseo/Recommendation-sysytem-for-AirBnB-in-NYC/blob/master/Rawcode.R)
-- [World cloud](https://github.com/alexdseo/Recommendation-sysytem-for-AirBnB-in-NYC/blob/master/airbnb_wordcloud.ipynb)
+- [Word cloud](https://github.com/alexdseo/Recommendation-sysytem-for-AirBnB-in-NYC/blob/master/airbnb_wordcloud.ipynb)
 
 All visualization that was created with R and python are in [Image files](https://github.com/alexdseo/Recommendation-sysytem-for-AirBnB-in-NYC/tree/master/Image_files)
 
